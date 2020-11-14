@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digitalinaja.github.io/pm/sitemap.xml

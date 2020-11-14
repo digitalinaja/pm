@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Permatamadani",
+    "description": "",
+    "home_page_url": "https://digitalinaja.github.io/pm",
+    "feed_url": "https://digitalinaja.github.io/pm/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "pm"
+    },
+    "items": [
+        {
+            "id": "https://digitalinaja.github.io/pm/selamat-datang.html",
+            "url": "https://digitalinaja.github.io/pm/selamat-datang.html",
+            "title": "Selamat Datang",
+            "summary": "Permatamadani",
+            "content_html": "<p>Permatamadani</p>",
+            "author": {
+                "name": "pm"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-14T17:40:23+07:00",
+            "date_modified": "2020-11-14T17:40:23+07:00"
+        }
+    ]
+}

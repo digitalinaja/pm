@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Permatamadani</title>
+    <link href="https://digitalinaja.github.io/pm/feed.xml" rel="self" />
+    <link href="https://digitalinaja.github.io/pm" />
+    <updated>2020-11-14T17:40:23+07:00</updated>
+    <author>
+        <name>pm</name>
+    </author>
+    <id>https://digitalinaja.github.io/pm</id>
+
+    <entry>
+        <title>Selamat Datang</title>
+        <author>
+            <name>pm</name>
+        </author>
+        <link href="https://digitalinaja.github.io/pm/selamat-datang.html"/>
+        <id>https://digitalinaja.github.io/pm/selamat-datang.html</id>
+
+        <updated>2020-11-14T17:40:23+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Permatamadani
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Permatamadani</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
